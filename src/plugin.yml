@@ -1,0 +1,10 @@
+name: Liftoff
+author: whizvox
+version: 1.0
+description: A lightweight and survival-friendly elevator thingy.
+main: whizvox.liftoff.Liftoff
+commands:
+  liftoff:
+    description: Liftoff general and version info command.
+    usage: 'Usage: /liftoff <help|version>'
+    permission: liftoff.help
