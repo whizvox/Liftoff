@@ -12,7 +12,7 @@ To build an elevator system, you need the following structure:
 
 The sign requires for the **first line** to be `[Elevator]`. Anything else can be written on the other lines. And stone buttons must be placed directly above and/or below the sign. Of course, you will need several of these stacked directly on top of each other:
 
-[!Stacked](http://i.imgur.com/8lPbltS.png)
+![Stacked](http://i.imgur.com/8lPbltS.png)
 
 Pressing the above button will check for another elevator-marked sign above the button, and pressing the below button will do the same for below it.
 
