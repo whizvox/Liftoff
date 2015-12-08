@@ -9,7 +9,7 @@ public class LiftoffCommand implements CommandExecutor {
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
-        if (sender.hasPermission("liftoff.help")) {
+        if (sender.hasPermission("liftoff.info")) {
             if (args.length > 0) {
                 switch (args[0].toLowerCase()) {
                     case "help":

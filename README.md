@@ -1,6 +1,8 @@
 ## Liftoff Github Repository
 
-Welcome one and all!
+Welcome one and all! Feel free to submit bug reports, suggestions, and pull requests to contribute to the project!
+
+This is a Spigot/Bukkit plugin that allows for the creation of "teleportation elevators". Essentially, you press a button and up or down you go.
 
 ### Building
 
