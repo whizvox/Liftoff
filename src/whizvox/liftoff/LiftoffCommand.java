@@ -32,7 +32,7 @@ public class LiftoffCommand implements CommandExecutor {
     private static final String[] HELP_MESSAGES = new String[] {
             ChatColor.AQUA + "Help Information for Liftoff",
             "This is a very lightweight plugin that allows the usage of teleportation elevators.",
-            "For thorough documentation, check out the wiki: " + ChatColor.BLUE + "http://github.com/whizvox/Liftoff/wiki"
+            "For thorough documentation, check out the README: " + ChatColor.BLUE + "https://github.com/whizvox/Liftoff/blob/master/README.md"
     };
 
     private static final String[] VERSION_MESSAGES = new String[] {
