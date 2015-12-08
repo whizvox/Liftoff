@@ -7,4 +7,4 @@ commands:
   liftoff:
     description: Liftoff general and version info command.
     usage: 'Usage: /liftoff <help|version>'
-    permission: liftoff.help
+    permission: liftoff.info
